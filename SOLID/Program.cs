@@ -1,4 +1,5 @@
-﻿using SOLID.SRP.Solucao;
+﻿using SOLID.OCP.Solucao_Extension_Methods;
+using SOLID.SRP.Solucao;
 using System;
 
 namespace SOLID
@@ -39,6 +40,10 @@ namespace SOLID
                     var alunoService = new AlunoService();
                     Console.WriteLine(alunoService.AdicionarAluno(aluno));
 
+                    break;
+
+                case '2':
+                    CaixaEletronico.Operacoes();
                     break;
             }
         }
