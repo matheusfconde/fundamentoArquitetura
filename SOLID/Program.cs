@@ -1,4 +1,5 @@
-﻿using SOLID.OCP.Solucao_Extension_Methods;
+﻿using SOLID.LSP.Solucao;
+using SOLID.OCP.Solucao_Extension_Methods;
 using SOLID.SRP.Solucao;
 using System;
 
@@ -44,6 +45,10 @@ namespace SOLID
 
                 case '2':
                     CaixaEletronico.Operacoes();
+                    break;
+
+                case '3':                    
+                    CalculoArea.Calcular();
                     break;
             }
         }
