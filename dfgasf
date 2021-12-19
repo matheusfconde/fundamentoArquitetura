@@ -1,0 +1,65 @@
+[33mcommit 7b31b341b102bea81d643c8ebd40107338b82b87[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mopenClosedPrinciple[m[33m, [m[1;32mliskovSubstituionPrinciple[m[33m)[m
+Merge: 6356eec c886311
+Author: Matheus Filipe Condé Rocha <matheusf.conde@gmail.com>
+Date:   Sun Dec 19 10:18:41 2021 -0300
+
+    Merge pull request #4 from matheusfconde/develop
+    
+    OCP resolução com extensions methods.
+
+[33mcommit c886311f723c912328375a3376bafca508c19d0b[m[33m ([m[1;31morigin/develop[m[33m)[m
+Merge: a7122fd 1b1101a
+Author: Matheus Filipe Condé Rocha <matheusf.conde@gmail.com>
+Date:   Sun Dec 19 10:15:20 2021 -0300
+
+    Merge pull request #3 from matheusfconde/openClosedPrinciple
+    
+    Open closed principle
+
+[33mcommit 1b1101a58db5c0c9475ed04a91e0ec4335616239[m[33m ([m[1;31morigin/openClosedPrinciple[m[33m)[m
+Author: matheus3i <matheusf.conde@gmail.com>
+Date:   Fri Dec 17 17:01:30 2021 -0300
+
+    OCP implementado com método de extensão e com herança
+
+[33mcommit 8f357788b3a49733451195e52d9bac9a89682d60[m
+Author: matheus3i <matheusf.conde@gmail.com>
+Date:   Fri Dec 17 16:29:49 2021 -0300
+
+    OCP violacao
+
+[33mcommit 6356eec0325b243a79e93bf5b088b50e6c844aa6[m
+Merge: 33705a3 a7122fd
+Author: Matheus Filipe Condé Rocha <matheusf.conde@gmail.com>
+Date:   Fri Dec 17 15:48:19 2021 -0300
+
+    Merge pull request #2 from matheusfconde/develop
+    
+    Develop
+
+[33mcommit a7122fd807d03da7cfadb3ca705ace23bd5cef03[m[33m ([m[1;32mdevelop[m[33m)[m
+Author: matheus3i <matheusf.conde@gmail.com>
+Date:   Fri Dec 17 15:46:13 2021 -0300
+
+    create git ignore
+
+[33mcommit 57201d4bc684e2067b49a464a75d71dfa80268c5[m
+Merge: 33705a3 2decf24
+Author: Matheus Filipe Condé Rocha <matheusf.conde@gmail.com>
+Date:   Fri Dec 17 15:40:41 2021 -0300
+
+    Merge pull request #1 from matheusfconde/singleResponsabilityPrinciple
+    
+    SRP
+
+[33mcommit 2decf24fc89aa1740e09952d7d16099aaafb8200[m[33m ([m[1;31morigin/singleResponsabilityPrinciple[m[33m, [m[1;32msingleResponsabilityPrinciple[m[33m)[m
+Author: matheus3i <matheusf.conde@gmail.com>
+Date:   Fri Dec 17 15:36:29 2021 -0300
+
+    SRP
+
+[33mcommit 33705a3d587fe515d9fe3d427ced3cbf37c176c7[m
+Author: Matheus Filipe Condé Rocha <matheusf.conde@gmail.com>
+Date:   Fri Dec 17 14:23:28 2021 -0300
+
+    Initial commit
