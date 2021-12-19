@@ -11,7 +11,6 @@ C:\_estudos\fundamentoArquitetura\SOLID\bin\Debug\net5.0\runtimes\win-x64\native
 C:\_estudos\fundamentoArquitetura\SOLID\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
 C:\_estudos\fundamentoArquitetura\SOLID\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\_estudos\fundamentoArquitetura\SOLID\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\_estudos\fundamentoArquitetura\SOLID\obj\Debug\net5.0\SOLID.csprojAssemblyReference.cache
 C:\_estudos\fundamentoArquitetura\SOLID\obj\Debug\net5.0\SOLID.GeneratedMSBuildEditorConfig.editorconfig
 C:\_estudos\fundamentoArquitetura\SOLID\obj\Debug\net5.0\SOLID.AssemblyInfoInputs.cache
 C:\_estudos\fundamentoArquitetura\SOLID\obj\Debug\net5.0\SOLID.AssemblyInfo.cs
@@ -21,3 +20,4 @@ C:\_estudos\fundamentoArquitetura\SOLID\obj\Debug\net5.0\SOLID.dll
 C:\_estudos\fundamentoArquitetura\SOLID\obj\Debug\net5.0\ref\SOLID.dll
 C:\_estudos\fundamentoArquitetura\SOLID\obj\Debug\net5.0\SOLID.pdb
 C:\_estudos\fundamentoArquitetura\SOLID\obj\Debug\net5.0\SOLID.genruntimeconfig.cache
+C:\_estudos\fundamentoArquitetura\SOLID\obj\Debug\net5.0\SOLID.csproj.AssemblyReference.cache
