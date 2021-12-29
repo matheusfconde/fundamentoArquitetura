@@ -26,6 +26,7 @@ namespace SOLID
             switch (opcao.KeyChar)
             {
                 case '1':
+                    Console.WriteLine("Uma classe deve ter um, e apenas um, motivo para ser modificada”. (Ela faz apenas uma coisa).");
                     //Entrada dos valores.
                     var cpf = new CPF { Numero = "11111111101" };
                     var email = new Email { Endereco = "matheusf.conde@gmail.com" };
@@ -44,11 +45,21 @@ namespace SOLID
                     break;
 
                 case '2':
+                    Console.WriteLine("Entidades de software (classes, módulos, funções etc.) devem estar abertas para extensão, mas fechadas para modificação.");                   
                     CaixaEletronico.Operacoes();
                     break;
 
-                case '3':                    
+                case '3':
+                    Console.WriteLine("Subclasses devem ser substituíveis por Superclasses.” (Existe o por que disso ser uma afirmação correta, uma explicação que Eduardo gosta muito é a frase abaixo: Se nada como um pato, voa como um pato, porém precisa de baterias, provavelmente você possui um problema de abstração.");
                     CalculoArea.Calcular();
+                    break;
+                
+                case '4':
+                    Console.WriteLine("Muitas interfaces específicas são melhores do que uma interface única.");
+                    break;
+
+                case '5':
+                    Console.WriteLine(" Dependa de uma abstração e não de uma implementação. - Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de abstrações. Abstrações não devem depender de detalhes. Detalhes devem depender de abstração.");
                     break;
             }
         }
