@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KBCtFi4Z9bJWYGsOVDQynuzC2dSyZ+Gd2OToLaM6JPAHFOCyAxlOm7IzzSYevxNzVYwdX5d+xP9D8IW+osPEeg==",
+  "dgSpecHash": "NL9XN5BwQm0QzX8/4P6V49jHlKcFr6ya9okI+ndNaVmLYII7bVDbfVp6xp5Jx9+Fl4ih7CZ7Qxu/9K5YMXpNFw==",
   "success": true,
   "projectFilePath": "C:\\_estudos\\fundamentoArquitetura\\SOLID\\SOLID.csproj",
   "expectedPackageFiles": [
@@ -12,8 +12,7 @@
     "C:\\Users\\mathe\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\system.data.sqlclient\\4.8.3\\system.data.sqlclient.4.8.3.nupkg.sha512",
     "C:\\Users\\mathe\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
-    "C:\\Users\\mathe\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
-    "C:\\Users\\mathe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+    "C:\\Users\\mathe\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

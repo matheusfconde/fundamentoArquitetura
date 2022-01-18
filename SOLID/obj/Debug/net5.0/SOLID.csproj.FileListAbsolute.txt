@@ -20,4 +20,4 @@ C:\_estudos\fundamentoArquitetura\SOLID\obj\Debug\net5.0\SOLID.dll
 C:\_estudos\fundamentoArquitetura\SOLID\obj\Debug\net5.0\ref\SOLID.dll
 C:\_estudos\fundamentoArquitetura\SOLID\obj\Debug\net5.0\SOLID.pdb
 C:\_estudos\fundamentoArquitetura\SOLID\obj\Debug\net5.0\SOLID.genruntimeconfig.cache
-C:\_estudos\fundamentoArquitetura\SOLID\obj\Debug\net5.0\SOLID.csproj.AssemblyReference.cache
+C:\_estudos\fundamentoArquitetura\SOLID\obj\Debug\net5.0\SOLID.csprojAssemblyReference.cache

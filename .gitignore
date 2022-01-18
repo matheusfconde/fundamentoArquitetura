@@ -180,6 +180,8 @@ DocProject/Help/html
 
 # Click-Once directory
 publish/
+TESTE_GIT_IGNORE/
+
 
 # Publish Web Output
 *.[Pp]ublish.xml
